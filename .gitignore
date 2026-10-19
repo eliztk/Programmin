@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Віртуальні середовища проєкту
+.venv1/
+.venv_bot/
+
+# Секрети та налаштування
+.env.*
+
+# Файли авторизації Telegram / Telethon
+*.session
+*.session-journal
